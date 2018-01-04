@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251312895899",
+    "firebase_url": "https://hotelproject-44e7f.firebaseio.com",
+    "project_id": "hotelproject-44e7f",
+    "storage_bucket": "hotelproject-44e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251312895899:android:02afc4b6c72343e8",
+        "android_client_info": {
+          "package_name": "com.example.daxesh.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251312895899-f7h171r3e6h87200jcdl1c49lv03h499.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daxesh.hotel",
+            "certificate_hash": "66885bb561b6843187cc834f024dbd6ae79a4b54"
+          }
+        },
+        {
+          "client_id": "251312895899-l2csegf8kjqm703p1fj2tcb6k2vr3972.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTouEGnDs-lLayXVtAUrt_x2jcPfNyCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251312895899-l2csegf8kjqm703p1fj2tcb6k2vr3972.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
